@@ -1,1 +1,2 @@
 hi i am from the github change
+adding a line in staging area of master
